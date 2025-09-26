@@ -39,39 +39,11 @@ If you are struggling with any of these - you will be learning the most importan
 
 Example prompt for AI to teach you python 1 on 1:
 
-"I'm a complete beginner to Python programming. I want to learn Python from scratch to eventually build AI/ML models. Please:
+"I need to master Python classes and object-oriented programming. Teach me casses step by step."
 
-1. Start with the absolute basics - what is Python and why is it useful?
-2. Guide me through installing Python on my computer step by step
-3. Show me how to write my first 'Hello World' program
-4. Teach me about variables, data types (strings, numbers, lists)
-5. Explain functions - what they are and how to create them
-6. Cover control flow - if statements, for loops, while loops
-7. Introduce me to classes and object-oriented programming
-8. Give me small coding exercises after each concept
-9. Explain any errors I encounter and how to fix them
-10. Use simple, beginner-friendly language and provide code examples
+You can also run all of this on [Google Colab](https://www.youtube.com/watch?v=RLYoEyIHL6A) without needing to setup local coding environment (on your computer).
 
-Please be patient and explain concepts clearly. I learn best with hands-on examples and practice problems. Start with the first topic and wait for my response before moving to the next."
-
-**Focused prompt for learning Python Classes specifically:**
-
-"I need to master Python classes and object-oriented programming. I understand basic Python (variables, functions, loops) but classes confuse me. Please:
-
-1. Explain what a class is using a simple real-world analogy (like a blueprint for a house)
-2. Show me the difference between a class and an object with clear examples
-3. Teach me how to create a simple class with the `__init__` method
-4. Explain what `self` means and why we need it
-5. Show me how to create methods (functions inside classes)
-6. Demonstrate class attributes vs instance attributes
-7. Give me a practical example - create a `Car` class with properties like make, model, year, and methods like start_engine(), drive()
-8. Show me how to create multiple objects from the same class
-9. Explain inheritance - how to create a child class that inherits from a parent class
-10. Give me coding exercises to practice each concept
-
-Please use simple, clear examples and let me practice each concept before moving to the next. I want to understand WHY we use classes, not just HOW to write them."
-
-
+## **No need to be able to code all of this from memory, but be able to read and understand what each does.**
 
 ### Assessment Questions
 **Test your Python knowledge with these 3 questions:**
