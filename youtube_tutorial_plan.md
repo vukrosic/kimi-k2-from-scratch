@@ -1,3 +1,21 @@
+Implement architecture from deepseek modeling into blueberry and do research on different arch ablations, learning rate, etc. Don't get overwhelmed.
+
+
+neuron from scratch
+backprop from scratch, math, code
+
+
+
+
+
+
+
+
+
+
+
+
+----
 # Complete YouTube Tutorial Series: Building and Training Kimi K2 from Scratch
 
 ## Overview

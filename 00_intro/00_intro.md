@@ -1,4 +1,6 @@
-In this video you will go from knowing nothing about AI or LLMs to coding and training Kimi K2 life LLM from the ground up.
+This course contains every for you to go from knowing nothing to beingn able to get a junior job at OpenAI or Google.
+
+You will not only code and train your own LM that you can talk to, but we will also write and publish a real research paper on how to create a small language model that anyone can train for free - I will publish this paper on arxiv - a real research paper that LLM that you can use to get a job at OpenAI or other frontier company, or start your own company or contribute to open source and publish more papers.
 
 You will learn absolutely latest advancements from AI that only top researchers in the field konw, that are held behind closed dors at OpenAI and Google.
 
@@ -6,7 +8,7 @@ You will learn absolutely latest advancements from AI that only top researchers 
 - **Intermediate**: Developers familiar with PyTorch wanting to build LLMs
 - **Advanced**: Top AI Researchers from OpenAI & Google wanting to keep up with the latest research
 
-## **Part 1: Foundations (3-4 hours)**
+## **Part 1: Python Foundations**
 
 explain how to learn python
 what they should konw
@@ -19,7 +21,6 @@ Learn basics of python. I recommend this video: [Python Programming Tutorial](ht
 
 ### Python Learning Resources
 - **YouTube Tutorials (you only need to learn basics):**
-  - [Python Programming Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw) - 4 hours detailed walkthrough
 You can also search for other python beginner tutorials, they will teach the same thing, you just need to learn it from one.
 
 Examples:
@@ -45,13 +46,9 @@ You can also run all of this on [Google Colab](https://www.youtube.com/watch?v=R
 
 ## **No need to be able to code all of this from memory, but be able to read and understand what each does.**
 
-### Assessment Questions
-**Test your Python knowledge with these 3 questions:**
+There is a folder 01_python_beginner_lessons that will be supplementary materials for studnets to learn, it contains supplementary markdown lessons.
 
-1. **Variables and Data Types:** Write a Python function that takes a list of numbers and returns both the sum and average. What data types are you working with?
+---
 
-2. **Control Flow:** Create a Python script that prints "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for multiples of both 3 and 5, for numbers 1-20.
-
-3. **Functions and Classes:** Define a simple Python class called `Calculator` with methods for addition, subtraction, multiplication, and division. Include error handling for division by zero.
-
-**If you can answer all 3 questions confidently, you're ready to proceed with the LLM tutorial!**
+## **Part 2: not sure**
+so here wo could have pytorch basics or llm theory or llm components basics, or math, not sur ewhat i would put here, give me suggestions
