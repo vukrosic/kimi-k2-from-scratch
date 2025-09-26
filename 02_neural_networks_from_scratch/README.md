@@ -1,6 +1,6 @@
-# NumPy Matrix Operations Tutorials
+# Neural Networks from Scratch Tutorials
 
-A comprehensive series of NumPy tutorials focused on matrix operations, broadcasting, and reshaping - essential skills for machine learning and deep learning.
+A comprehensive series of tutorials for building neural networks from scratch using only NumPy. Learn the fundamentals of neural networks, from basic matrix operations to complete network implementations.
 
 ## 📚 Learning Path
 
@@ -8,6 +8,7 @@ A comprehensive series of NumPy tutorials focused on matrix operations, broadcas
 1. **[Matrix Operations](01_matrix_operations.md)** - Core matrix arithmetic and operations
 2. **[Broadcasting](02_broadcasting.md)** - Efficient operations on arrays of different shapes
 3. **[Reshaping](03_reshaping.md)** - Changing array dimensions for different operations
+4. **[Building Simple Neuron](04_building_simple_neuron.md)** - Implement neurons from scratch with NumPy
 
 ## 🎯 Learning Objectives
 
@@ -15,8 +16,11 @@ By the end of this series, you will be able to:
 - Perform matrix operations efficiently with NumPy
 - Use broadcasting to write clean, efficient code
 - Reshape arrays for different neural network architectures
-- Implement basic neural network components from scratch
-- Debug common NumPy operation errors
+- Build neurons from scratch with different activation functions
+- Implement perceptrons for binary classification
+- Create multi-layer neural networks
+- Solve complex problems like XOR with neural networks
+- Debug common neural network implementation errors
 - Prepare data for machine learning pipelines
 
 ## 🚀 Getting Started
@@ -97,17 +101,19 @@ Each lesson includes:
 
 ## 🎓 Certification Path
 
-### NumPy Fundamentals Certificate
-Complete all three lessons:
+### Neural Networks Fundamentals Certificate
+Complete all four lessons:
 - Matrix Operations
 - Broadcasting
 - Reshaping
+- Building Simple Neuron
 
-### Advanced NumPy Certificate
+### Advanced Neural Networks Certificate
 Complete the series and build:
-- A simple neural network from scratch
-- Data preprocessing pipeline
-- Image processing application
+- Multi-layer neural networks from scratch
+- Perceptrons for classification
+- XOR problem solver
+- Real-world classification applications
 
 ## 🤝 Getting Help
 
@@ -133,15 +139,15 @@ Each lesson includes specific prompts you can copy into:
 
 ### After Completing This Series
 1. **Build Projects**: Apply your skills to real problems
-2. **Learn PyTorch**: Apply NumPy knowledge to deep learning
-3. **Explore Data Science**: Pandas, Matplotlib, Scikit-learn
+2. **Learn Backpropagation**: Train your networks with gradient descent
+3. **Explore Deep Learning**: PyTorch, TensorFlow, and advanced architectures
 4. **Contribute to Open Source**: Practice with real codebases
-5. **Stay Updated**: Follow NumPy news and updates
+5. **Stay Updated**: Follow neural network research and updates
 
 ### Recommended Next Steps
-- **Neural Networks from Scratch**: Build networks using only NumPy
+- **Backpropagation**: Learn how to train neural networks
+- **Multi-layer Networks**: Build deeper architectures
 - **PyTorch Fundamentals**: Transition to deep learning frameworks
-- **Data Science**: Advanced data manipulation and analysis
 - **Computer Vision**: Image processing and CNN implementation
 - **Natural Language Processing**: Text processing and RNNs
 
@@ -168,10 +174,11 @@ Each lesson includes specific prompts you can copy into:
 
 ### What You Can Build After This Series
 - **Neural Networks**: From scratch using only NumPy
+- **Perceptrons**: Binary classification systems
+- **Multi-layer Networks**: Complex problem solvers
+- **XOR Solvers**: Networks that solve non-linearly separable problems
+- **Classification Systems**: Real-world pattern recognition
 - **Data Processing**: Efficient data manipulation pipelines
-- **Image Processing**: Computer vision applications
-- **Scientific Computing**: Mathematical simulations
-- **Machine Learning**: Custom algorithms and models
 
 ### Career Paths
 - **Data Scientist**: Analysis, visualization, and insights
@@ -213,6 +220,6 @@ Your feedback helps improve this series:
 
 ---
 
-**Ready to start your NumPy journey?** Begin with [Matrix Operations](01_matrix_operations.md) and remember: every expert was once a beginner. Take your time, practice regularly, and don't hesitate to use the AI learning prompts when you need help!
+**Ready to start your neural network journey?** Begin with [Matrix Operations](01_matrix_operations.md) and remember: every expert was once a beginner. Take your time, practice regularly, and don't hesitate to use the AI learning prompts when you need help!
 
 Happy coding! 🐍✨
