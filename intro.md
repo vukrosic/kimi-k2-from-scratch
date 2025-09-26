@@ -13,9 +13,16 @@ what they should konw
 give some prompts and chatbots or google colab notebooks to test them
 link to resources and chats for each
 
+#### Check timestamps / chapters below the video to skip what you know, but you can watch it even if you know it.
+
+Learn basics of python. I recommend this video: [Python Programming Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). No need to watch it all, but k
+
 ### Python Learning Resources
-- **YouTube Tutorials:**
+- **YouTube Tutorials (you only need to learn basics):**
   - [Python Programming Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw) - 4 hours detailed walkthrough
+You can also search for other python beginner tutorials, they will teach the same thing, you just need to learn it from one.
+
+Examples:
   - [Python for Beginners - Full Course](https://www.youtube.com/watch?v=kqtD5dpn9C8) - 4.5 hours comprehensive Python tutorial
   - [Python Crash Course for Beginners](https://www.youtube.com/watch?v=JJmcL1N2KQs) - 1 hour quick start guide
 
@@ -23,10 +30,46 @@ From these tutorials you need to know:
 1. How to install python on your computer
 2. How to use IDE (Integrated Development Environment) to write your code
 3. How to execute your code with `python file_name.py`
+4. Create variable, list, function, if statement, for loop.
+5. Create class - this is included in the first course but you can learn more, search for object oriented programming in python.
+Example: [Python Object Oriented Programming (OOP) - Full Course for Beginners](https://youtu.be/iLRZi0Gu8Go)
 
-If you are struggling with any of these - you will be learning the most important skill - how to use YouTube and AI chatbots like ChatGPT to learn.
-- Search for videos and ask AI to help you with any of the issues you have.
+If you are struggling with any of these - you will be learning the most important skill - learn how to learn - how to use YouTube and AI chatbots like ChatGPT to learn.
+- Search for videos and ask AI to help you with any of the issues you have - once you learn how to learn with internet and AI, you will be able to learn anything.
 
+Example prompt for AI to teach you python 1 on 1:
+
+"I'm a complete beginner to Python programming. I want to learn Python from scratch to eventually build AI/ML models. Please:
+
+1. Start with the absolute basics - what is Python and why is it useful?
+2. Guide me through installing Python on my computer step by step
+3. Show me how to write my first 'Hello World' program
+4. Teach me about variables, data types (strings, numbers, lists)
+5. Explain functions - what they are and how to create them
+6. Cover control flow - if statements, for loops, while loops
+7. Introduce me to classes and object-oriented programming
+8. Give me small coding exercises after each concept
+9. Explain any errors I encounter and how to fix them
+10. Use simple, beginner-friendly language and provide code examples
+
+Please be patient and explain concepts clearly. I learn best with hands-on examples and practice problems. Start with the first topic and wait for my response before moving to the next."
+
+**Focused prompt for learning Python Classes specifically:**
+
+"I need to master Python classes and object-oriented programming. I understand basic Python (variables, functions, loops) but classes confuse me. Please:
+
+1. Explain what a class is using a simple real-world analogy (like a blueprint for a house)
+2. Show me the difference between a class and an object with clear examples
+3. Teach me how to create a simple class with the `__init__` method
+4. Explain what `self` means and why we need it
+5. Show me how to create methods (functions inside classes)
+6. Demonstrate class attributes vs instance attributes
+7. Give me a practical example - create a `Car` class with properties like make, model, year, and methods like start_engine(), drive()
+8. Show me how to create multiple objects from the same class
+9. Explain inheritance - how to create a child class that inherits from a parent class
+10. Give me coding exercises to practice each concept
+
+Please use simple, clear examples and let me practice each concept before moving to the next. I want to understand WHY we use classes, not just HOW to write them."
 
 
 
