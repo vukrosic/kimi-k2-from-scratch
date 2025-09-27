@@ -1,21 +1,60 @@
 Implement architecture from deepseek modeling into blueberry and do research on different arch ablations, learning rate, etc. Don't get overwhelmed.
 
+First base LLM, trained it, then DeepSeek / Kimi LLM which is a bit different, better if you have less compute (GPUs).
+
+functions
+- what is a function, draw image of multiple, give intuition, explain why it is like it is
+derivatives
+- same as functions, have function and its derivative on the same plot, explain non differntiable
+gradients
+
+activation functions - https://youtu.be/WwrWv0RN3XY
+silu - why does it prevent vanishing gradients in deeper levels
+How SiLU Prevents Vanishing Gradients
+What complex patters does it learn over ReLU?
+Experiment 4 - why does it train faster with more params?
+
 
 neuron from scratch
 backprop from scratch, math, code
 
+neural network from scratch
+- https://youtu.be/9RN2Wr8xvro
+
+attention
+
+expert
+multi expert
+gate
+layer
+decoder
+
+tokenizer
+RoPE
+
+append coding setup video
+train llm on google colab, novita ai
+
+mastery, advanced - not harder but the frontier
+
+muon
+
+---
+
+Microshits are good for skool
+
+Compile them into single video - 30 days of AI research
 
 
+Description:
+tell them all urls are in my video on my channel, if they watch this on free code camp
 
 
+---
 
+I made the best 0 to AI researcher course in existance - we release our LLM and research paper - learn to become ai researcher from scratch
 
-
-
-
-
-
-----
+---
 # Complete YouTube Tutorial Series: Building and Training Kimi K2 from Scratch
 
 ## Overview

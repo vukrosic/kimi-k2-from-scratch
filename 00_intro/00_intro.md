@@ -1,3 +1,11 @@
+Code & Train Kimi K2 From Scratch - 0 To AI Researcher Step by Step Course
+
+0 To AI Researcher - Full Course - Code & Train Kimi K2 From Scratch
+
+Paper name: Train LLM for $0, $1, $10
+
+
+
 This course contains every for you to go from knowing nothing to being able to get a junior job at OpenAI or Google.
 
 It will take you 4-12 months, depending on how much you know. This is reality. You could also go into ultra fast mode, but don't get scared, going from not knowing everything junior OpenAI employee knows and publishing your own papers in 1 year is actually very good and completely possible and this course will teach you thing.
